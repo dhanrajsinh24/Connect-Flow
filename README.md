@@ -11,25 +11,6 @@ This is a puzzle game demo inspired by **Loop Energy** game (`https://play.googl
 ## Technical Details
 
 - **Unity Version:** 2022.3.27f1
-- **Programming Language:** C#
-- **Main Scene:** The primary game scene is named `Game`.
 - **Addressable Assets:**: Used for efficient level loading.
 - **JSON Storage:**: For storing level and score data.
-- **Scene Management:**: The main gameplay takes place in the Game scene.
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/connect-flow.git
-   ```
-
-2. **Open in Unity:**
-   - Open Unity Hub.
-   - Add the cloned project.
-   - Open the project with Unity 2022.3.27f1.
-
-3. **Play the Game:**
-   - Open the `Game` scene.
-   - Press the Play button in Unity to start the game.
 
